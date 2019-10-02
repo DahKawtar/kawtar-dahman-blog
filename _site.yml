@@ -14,5 +14,6 @@ navbar:
 base_url: https://Kawtar.github.io/kawtar-dahman-blog/
 collections:
     posts:
+    disqus: kawtar-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

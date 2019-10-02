@@ -1,8 +1,8 @@
 ---
-title: "About me"
+title: "Kawtar's blog"
 ---
 
 
 This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Kawtar/Dahman, Ingrid Van Lancker, English for science 1 and 2019-2020
