@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/Kawtar/kawtar-dahman-blog/
-base_url: https://Kawtar.gitup.io/kawtar-dahman-blog/
+base_url: https://Kawtar.github.io/kawtar-dahman-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
