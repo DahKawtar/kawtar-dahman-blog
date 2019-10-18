@@ -1,8 +1,8 @@
 ---
-title: "Article 1: Determined DNA hunt reveals schizophrenia clue"
+title: "Article 1: Determined DNA hunt reveals schizophrenia clue."
 author:
-  - name: "Kawtar Dahman"
-date: 17-10-2019
+  - name: "Dahman Kawtar"
+date: 10-17-2019
 categories:
   - "Mental diseases"
   - "Schizophrenia"
@@ -18,37 +18,55 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](image/schizophrenia-dna.jpg)
 
+An 18-year study using the DNA of thousands of people in India has identified a new clue in the quest for causes of schizophrenia, and for potential treatments. This study identified a gene called NAPRT1 that encodes an enzyme involved in vitamin B3 metabolism.
 
-# Source of the blog and words count
+# Source of the blog and words count :
 
 Source : <https://www.sciencedaily.com/releases/2019/07/190703121445.htm>  (03/07/2019)
+(Credits)
+
 Number of words : 508
 
-# Vocabulary
+
+# Vocabulary :
+
+| Words from the text |                 Synonym/ definition in English                  | French translation |
+| :-----------------: | :-------------------------------------------------------------: | :----------------: |
+|     recruitement    | the act or process of finding new people to join a company, an organization (enrolement) |    recrutment     |
+|      screening      |                            detecting                            |     dépistage      |
+|    predominantly    |                           principaly                            |   principalement   |
+|      ancestry       |  the family or the race of people that you come from (heritage) |     ascendance     |
+|    symmetrically    |                           identically                           |   symétriquement   |
+|    computational    |                          calculational                          |       calcul       |
+|      replicate      |                            reproduce                            |     reproduire     |
+|        fund         | a sum of money saved or made available for a particular purpose |      financer      |
 
 
-| Words from the text | Synonym/ definition in English | French translation |
-| :-----------------: | :----------------------------: | :----------------: |
-|     recrutement     |          enrolement            |    recruitment     |
-|      screening      |           detecting            |     dépistage      |
-|    predominantly    |           principaly           |   principalement   |
-|      ancestry       |            heritage            |     ascendance     |
-|    symmetrically    |          identically           |   symétriquement   |
-|    computational    |         calculational          |       calcul       |
-|      replicate      |           reproduce            |     reproduire     |
-|        fund         |            finance             |      financer      |
 
-# Analysis table
+# Analysis table :
+
+|                                       |                                                                                                                                                                                                                                                |
+| ------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Researchers                           |                                                                Collaboration between:
+|                                       |                                                                 University of Queensland
+|                                       |                                                                          And:
+|                                       |                                                   Indian researchers led by Professor Rangaswamy Thara  |
+|                                       |                                                      |
+| Published in? when (if mentioned)  ?  |                                                                       07-03-2019                        |
+|                                       |                                                      |
+| General topic                         |                                                                      Schizophrenia                       |
+|                                       |                                                      |
+| Procedure / what was examined         |                        1. Introduction of the point of the study :
+|                                       |   DNA screening of thousand of people in India, in order to find genetic factors that causes schizophrenia and        |                                       |           potentiel treatements.|
+|                                       |                            2. Gene NAPRT1.                         |
+|                                       |                                                      |
+| Conclusions/ discovery                |                      - The gene NAPRT1 was found in a large genomic dataset of schizophrenia patients.|
+|                                       |                        - In one percent of the population, schizophrenia is due to genetic factors.|
+|                                       |                        - The mystery of which specific gene causes schizophrenia is still unsolved.   |
+|                                       |                                                      |
+| Remained questions                    |                What are the specific roles of the hundred genetic variants linked to schizophrenia ?         |
 
 
-|                                      |                          |
-| ------------------------------------ | :----------------------: |
-| Researchers                          | University of Queensland |
-| Published in ? when (if mentioned) ? |        03-07-2019        |
-| General topic                        |      Schizophrenia       |
-| Procedure / what was examined        |                          |
-| Conclusions / discovery              |                          |
-|                                      |                          |
 
 
 
