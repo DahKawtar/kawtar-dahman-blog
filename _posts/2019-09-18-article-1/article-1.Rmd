@@ -2,11 +2,11 @@
 title: "Article 1: Determined DNA hunt reveals schizophrenia clue"
 author:
   - name: "Kawtar Dahman"
-date: 17-10-2019
+date: 10-17-2019
 categories:
   - "Mental diseases"
   - "Schizophrenia"
-preview: image/scizophrenia-dna.jpg
+preview: "image/scizophrenia-dna.jpg"
 output:
   distill::distill_article:
     self_contained: false
