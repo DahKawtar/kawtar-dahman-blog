@@ -1,28 +1,15 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-<<<<<<< HEAD
     "title": "Article 1: Determined DNA hunt reveals schizophrenia clue.",
-=======
-    "title": "Article 1: Determined DNA hunt reveals schizophrenia clue",
->>>>>>> 40c05494536b7e741dd63aa37ff43e47bc3602f1
     "description": {},
-    "author": [
-      {
-        "name": "Dahman Kawtar",
-        "url": {}
-      }
-    ],
+    "author": [],
     "date": "2019-10-17",
     "categories": [
       "Mental diseases",
       "Schizophrenia"
     ],
     "preview": {},
-<<<<<<< HEAD
-    "last_modified": "2019-10-18T23:58:32+02:00"
-=======
-    "last_modified": "2019-10-18T12:23:45+02:00"
->>>>>>> 40c05494536b7e741dd63aa37ff43e47bc3602f1
+    "last_modified": "2019-10-19T00:08:29+02:00"
   }
 ]
