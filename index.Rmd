@@ -1,5 +1,5 @@
 ---
-title: "Article 1"  
+title: "TODO"
 site: distill::distill_website
 listing: posts
 ---
@@ -8,21 +8,4 @@ listing: posts
 #distill::create_post("my post") # use this fonction to create a new post
 ```
 
-#1.  *Source of the article with the publication date and words count*
-Source : https://www.sciencedaily.com/releases/2019/07/190703121445.htm (03/07/2019)
-Number of words : 508
 
-#2.  *Vocabulary*
-| Words from the text | Synonym/ definition in English | French translation |
-| :-----------------: | :----------------------------: | :----------------: |
-|     recrutement     |          enrolement            |    recruitment     |
-|      screening      |           detecting            |     dépistage      |
-|    predominantly    |           principaly           |   principalement   |
-|      ancestry       |            heritage            |     ascendance     |
-|    symmetrically    |          identically           |   symétriquement   |
-|    computational    |         calculational          |       calcul       |
-|      replicate      |           reproduce            |     reproduire     |
-|        fund         |            finance             |      financer      |
-
-
-#3. *Analysis table about the study*

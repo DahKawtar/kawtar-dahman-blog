@@ -1,12 +1,12 @@
 ---
-title: "Article 1"
+title: "Article 1: Determined DNA hunt reveals schizophrenia clue"
 author:
-  - name: Kawtar Dahman
-date:
+  - name: "Kawtar Dahman"
+date: 17-10-2019
 categories:
-  - Mental diseases
-  - Schizophrenia
-preview:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: image/scizophrenia-dna.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,12 +16,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](image/schizophrenia-dna.jpg)
 
 
+# Source of the blog and words count
+
+Source : <https://www.sciencedaily.com/releases/2019/07/190703121445.htm>  (03/07/2019)
+Number of words : 508
+
+# Vocabulary
 
 
-
-## Vocabulary
 | Words from the text | Synonym/ definition in English | French translation |
 | :-----------------: | :----------------------------: | :----------------: |
 |     recrutement     |          enrolement            |    recruitment     |
@@ -33,17 +38,17 @@ knitr::opts_chunk$set(echo = FALSE)
 |      replicate      |           reproduce            |     reproduire     |
 |        fund         |            finance             |      financer      |
 
-## Analysis table
+# Analysis table
 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | University of Queensland                        |
-| Published in?                | 03-07-2019                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+|                                      |                          |
+| ------------------------------------ | :----------------------: |
+| Researchers                          | University of Queensland |
+| Published in ? when (if mentioned) ? |        03-07-2019        |
+| General topic                        |      Schizophrenia       |
+| Procedure / what was examined        |                          |
+| Conclusions / discovery              |                          |
+|                                      |                          |
 
 
 

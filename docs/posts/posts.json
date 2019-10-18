@@ -1,20 +1,20 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1: Determined DNA hunt reveals schizophrenia clue ",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Kawtar Dahman",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-17",
     "categories": [
-      "elephant",
-      "track"
+      "Mental diseases",
+      "Schizophrenia"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T11:08:16+02:00"
+    "preview": {},
+    "last_modified": "2019-10-17T16:02:20+02:00"
   }
 ]
