@@ -29,6 +29,12 @@ Source : <https://www.sciencedaily.com/releases/2019/07/190703121445.htm>  (03/0
 Number of words : 508
 
 
+# Link for the pdf of the text with highlighted vocabulary :
+
+https://github.com/DahKawtar/kawtar-dahman-blog/blob/master/pdf/Article1_Determined%20DNA%20hunt%20reveals%20schizophrenia%20clue.pdf
+
+
+
 # Vocabulary :
 
 | Words from the text |                 Synonym/ definition in English                  | French translation |
