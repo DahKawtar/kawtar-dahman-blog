@@ -37,44 +37,35 @@ https://github.com/DahKawtar/kawtar-dahman-blog/blob/master/pdf/Article1_Determi
 
 # Vocabulary :
 
-| Words from the text |                 Synonym/ definition in English                  | French translation |
-| :-----------------: | :-------------------------------------------------------------: | :----------------: |
-|     recruitement    | the act or process of finding new people to join a company, an organization (enrolement) |    recrutment     |
-|      screening      |                            detecting                            |     dépistage      |
-|    predominantly    |                           principaly                            |   principalement   |
-|      ancestry       |  the family or the race of people that you come from (heritage) |     ascendance     |
-|    symmetrically    |                           identically                           |   symétriquement   |
-|    computational    |                          calculational                          |       calcul       |
-|      replicate      |                            reproduce                            |     reproduire     |
-|        fund         | a sum of money saved or made available for a particular purpose |      financer      |
 
-
+| Words from the text | Synonym/ definition in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| recrutement         | the act or process of finding new people to join a company, an organization (enrolement)  | recruitment        |
+| screening           | detecting                      | dépistage          |
+| predominantly       | principaly                     | principalement     |
+| ancestry            | the family or the race of people that you come from (heritage)    | ascendance         |
+| symmetrically       | identically                    | symétriquement     |
+| computational       | calculational                  | calcul             |
+| replicate           | reproduce                      | reproduire         |
+| fund                | a sum of money saved or made available for a particular purpose    | financer           |
 
 # Analysis table :
 
-|                                       |                                                                                                                                                                                                                                                |
-| ------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Researchers                           |                                                                Collaboration between:
-|                                       |                                                                 University of Queensland
-|                                       |                                                                          And:
-|                                       |                                                   Indian researchers led by Professor Rangaswamy Thara  |
-|                                       |                                                      |
-| Published in? when (if mentioned)  ?  |                                                                       07-03-2019                        |
-|                                       |                                                      |
-| General topic                         |                                                                      Schizophrenia                       |
-|                                       |                                                      |
-| Procedure / what was examined         |                        1. Introduction of the point of the study :
-|                                       |   DNA screening of thousand of people in India, in order to find genetic factors that causes schizophrenia and        |                                       |           potentiel treatements.|
-|                                       |                            2. Gene NAPRT1.                         |
-|                                       |                                                      |
-| Conclusions/ discovery                |                      - The gene NAPRT1 was found in a large genomic dataset of schizophrenia patients.|
-|                                       |                        - In one percent of the population, schizophrenia is due to genetic factors.|
-|                                       |                        - The mystery of which specific gene causes schizophrenia is still unsolved.   |
-|                                       |                                                      |
-| Remained questions                    |                What are the specific roles of the hundred genetic variants linked to schizophrenia ?         |
-
-
-
+|                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                           | Collaboration between :                        | 
+|                                       | University of Queensland                     |
+|                                       | And:                                        |   
+|                                       | Indian researchers led by Professor Rangaswamy Thara            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Published in ? when (if mentioned)  ? | 07-03-2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General topic                         | Schizophrenia                                                |                                                        
+|                                       |                                                                |
+| Procedure / what was examined         |     1. Introduction of the point of the study :    DNA screening of thousand of people in India, in order to find                                               genetic factors that causes schizophrenia and potential treatements.                                           |
+|                                       |        2. Gene NAPRT1.                                                 |                                              |                                       |                                                                              |                                        |                                        |                                             |
+| Conclusions/ discovery                | - The gene NAPRT1 was found in a large genomic dataset of schizophrenia patients.  |
+|                                       | - In one percent of the population, schizophrenia is due to genetic factors.   |
+|                                       | - The mystery of which specific gene causes schizophrenia is still unsolved.    |
+| Remained questions                    | What are the specific roles of the hundred genetic variants linked to schizophrenia ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 
