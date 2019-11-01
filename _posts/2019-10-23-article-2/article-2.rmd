@@ -51,3 +51,13 @@ Words count: 891
 
 
 # Analysis table :
+
+|                                      |                                                                                                                                                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | Emory Health Sciences (original written by Carol Clarke)                                                                                                           |
+| Published in ? when (if mentioned) ? | June 3, 2019                                                                                                                                                       |
+| General topic                        | Schizophrenia                                                                                                                                                      |
+| Procedure/ what was examined ?       | 1. People's language was examined by a machine-learning method to identify linguistic abnormalities associated with mental illness.                                |
+| Conclusions/ discovery               | - Discovering of a hidden clue in people's language indicator to psychosis.
+|                                      | - People at risk for psychosis use more words associated with sound than the average.  |
+| Remained questions ?                 | How much more will it take to find more quantified, objective ways to measure subtle variables, such as those                                                hidden within language usage ?                     |
