@@ -1,0 +1,60 @@
+---
+title: "Article 3: Physical evidence in the brain for types of schizophrenia."
+author:
+name: "Dahman Kawtar"
+date: 11-12-2019
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: "image/scizophrenia-dna.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+Findings suggest a form of schizophrenia has more in common with neurodegenerative diseases than previously thought
+
+
+# Source of the blog and words count :
+Source: <https://www.sciencedaily.com/releases/2019/06/190624111556.htm> (06/24/2019)(Credits)
+
+Words count: 912
+
+
+# Vocabulary :
+
+| Words from the text | Synonym/ definition in english                                                          | French translation |
+| ------------------- | --------------------------------------------------------------------------------------- | ------------------ |
+| Jumbled             | mix up in a confused or untidy way.                                                     | brouillé           |
+| striking            | attracting attention by reason of being unusual, extreme, or prominent.                 | frappante          |
+| sought              | (past tense of 'seek')                                                                  | recherché          |
+| tailor              | adjust                                                                                  | ajusté             |
+| churn out           | produce something at a fast rate.                                                       | produire           |
+| dissolve            | disintegrate                                                                            | dissoudre          |
+| aggregation         | accumulation                                                                            | agrégation         |
+| pioneered           | develop or be the first to use or apply (a new method, area of knowledge, or activity). | pionnier           |
+| substantial         | considerable                                                                            | substantiel        |
+
+
+
+# Analysis table :
+
+|                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | Johns Hopkins Medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Published in ? when (if mentioned) ? | June 24, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| General topic                        | Schizophrenia                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/ what was examined ?       | 1.Using brain tissue from deceased human donors to find schizophrenia prestance in neurodegenerative diseases.
+|                                      | 2.Putting cells from the brain tissue samples in a specific detergent to analyze their contents.                                                                                                                                                                                                                                                                            |
+| Conclusions/ discovery               | -Finding new evidence that schizophrenia can be marked by the buildup of abnormal proteins similar to those found in the brains of    |people with such neurodegenerative disorders as Alzheimer's or Huntington's diseases.
+|                                      | -Less dissolved cell contents indicate that the cell contains a high volume of abnormal, misfolded proteins, as found in other brain diseases.
+|                                      | -Detecting of a small protein ubiquitin that is a marker for protein aggregation in neurodegenerative disorders.   |
+| Remained  questions ?                 | Is substantial variety in the disorder's symptoms linked to particular levels of excess abnormal proteins ? and how this leads to the disease ?                                                                                                                                                                                                                                                                                                                                            |
