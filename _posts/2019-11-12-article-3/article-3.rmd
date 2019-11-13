@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+![](image/neurodegenerative.jpg)
 
 
 Findings suggest a form of schizophrenia has more in common with neurodegenerative diseases than previously thought
