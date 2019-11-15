@@ -1,12 +1,12 @@
 ---
-title: "Article 3: Physical evidence in the brain for types of schizophrenia."
+title: "Article 3: Physical evidence in the brain for types of schizophrenia"
 author:
 name: "Dahman Kawtar"
 date: 11-12-2019
 categories:
   - "Mental diseases"
   - "Schizophrenia"
-preview: "image/scizophrenia-dna.jpg"
+preview: "neurodegenrative.jpg"
 output:
   distill::distill_article:
     self_contained: false
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](image/neurodegenerative.jpg)
 
 
-Findings suggest a form of schizophrenia has more in common with neurodegenerative diseases than previously thought
+Findings suggest a form of schizophrenia has more in common with neurodegenerative diseases than previously thought.
 
 
 # Source of the blog and words count :
