@@ -1,0 +1,58 @@
+---
+title: "Article 4: Study locates brain areas for understanding metaphors in healthy and schizophrenic people"
+author:
+name: "Dahman Kawtar"
+date: 11-28-2019
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](image/schizo.jpg)
+
+
+Scientists have used MRI scanners to discover the parts of the brain which understand metaphors, in both healthy volunteers and people with schizophrenia.
+
+# Source of the blog and words count :
+Source: <https://www.sciencedaily.com/releases/2019/09/190906200401.htm> (09/06/2019)(Credits)
+
+Words count: 588
+
+
+# Vocabulary :
+
+| Words from the text | Synonym/ definition in english                                                          | French translation |
+| ------------------- | --------------------------------------------------------------------------------------- | ------------------ |
+| Figurative          | metaphoric                                                                              | figuratif          |
+| steam               | muscle                                                                                  | muscle             |
+| incongruity         | inconsistency                                                                           | incongruité          |
+| compensatory        | offsetting                                                                              | compensatoire       |
+| bypass              | ignore/ neglect                                                                         | contourne           |
+| conventional        | current/ typical                                                                        | conventionnelle    |
+| cognition           | awareness                                                                               | cognition        |
+
+
+# Analysis table :
+
+|                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | European College of Neuropsychopharmacology                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Published in ? when (if mentioned) ? | September 6, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| General topic                        | Schizophrenia                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/ what was examined ?       | 1.Comparing parts of the brain that understand metaphors of healthy people and people with schizophrenia, using MRI scanners.
+|                                      | 2.Examining 30 patients who had been diagnosed with schizophrenia and 30 healthy controls while undergoing a brain scan in a high-sensitivity MRI, they read 90 brief stories.                                                                                                                                                                                                                                                                         |
+| Conclusions/ discovery               | -People with schizophrenia employ different brain circuits to overcome initial lack of understanding.
+|                                      | -Compared to controls, the patient group showed increased brain activity in certain areas, but lower brain activity in others.
+| Remained  questions ?                 | -                                                                                                                                                                                                                                                                                                                                            |
+
+
+
