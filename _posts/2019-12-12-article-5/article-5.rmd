@@ -1,0 +1,59 @@
+---
+title: "Article 5: Hotspot in the genome may drive psychosis in schizophrenia and bipolar disorder"
+author:
+name: "Dahman Kawtar"
+date: 12-12-2019
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+
+A newly identified epigenetic hotspot for schizophrenia and bipolar disorder may give scientists a fresh path forward for devising more effective treatments and biomarker-based screening strategies.
+
+# Souce of the blog and words count :
+Source: <https://www.sciencedaily.com/releases/2019/05/190503100829.htm> (05/03/2019)(Credits)
+
+Words count : 576
+
+
+# Vocabulary :
+
+| Words from the text | Synonym/ definition in english                                                          | French translation |
+| ------------------- | --------------------------------------------------------------------------------------- | ------------------ |
+| epigenetic          | relating to or arising from non-genetic influences on gene expression                   | épigénétique       |
+| screening           | strategy used to look for as-yet-unrecognised conditions                                | dépistage          |
+| apathy              | lack of feeling or emotion                                                              | apathie          |
+| dyskinesia          | involuntary muscle movements                                                            | dyskinésie       |
+| cluster             | mass                                                                                    | grappe            |
+| ratchet up          | to increase                                                                             | accroitre    |
+| scrambling          | disturb/ disorganize                                                                    | brouiller        |
+| hub                 | centre/ focal point                                                                     | centre       |
+| prodromal           | a premonitory symptom                                                                   | prodrome    |
+
+# Analysis table :
+
+|                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | Van Andel Research Institute                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Published in ? when (if mentioned) ? | May 3, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| General topic                        | Schizophrenia                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/ what was examined ?       | 1.Comparing parts of the brain that understand metaphors of healthy people and people with schizophrenia, using MRI scanners.
+|                                      | 2.Examining 30 patients who had been diagnosed with schizophrenia and 30 healthy controls while undergoing a brain scan in a high-sensitivity MRI, they read 90 brief stories.                                                                                                                                                                                                                                                                         |
+| Conclusions/ discovery               | -People with schizophrenia employ different brain circuits to overcome initial lack of understanding.
+|                                      | -Compared to controls, the patient group showed increased brain activity in certain areas, but lower brain activity in others.
+| Remained  questions ?                 | -                                                                                                                                                                                                                                                                                                                                            |
+
+:
