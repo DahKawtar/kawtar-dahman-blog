@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+![](image/figure.jpg)
 
 
 
@@ -50,10 +50,11 @@ Words count : 576
 | Researchers                          | Van Andel Research Institute                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Published in ? when (if mentioned) ? | May 3, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | General topic                        | Schizophrenia                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Procedure/ what was examined ?       | 1.Comparing parts of the brain that understand metaphors of healthy people and people with schizophrenia, using MRI scanners.
-|                                      | 2.Examining 30 patients who had been diagnosed with schizophrenia and 30 healthy controls while undergoing a brain scan in a high-sensitivity MRI, they read 90 brief stories.                                                                                                                                                                                                                                                                         |
-| Conclusions/ discovery               | -People with schizophrenia employ different brain circuits to overcome initial lack of understanding.
-|                                      | -Compared to controls, the patient group showed increased brain activity in certain areas, but lower brain activity in others.
+| Procedure/ what was examined ?       | 1.identifying a newly epigenetic hotspot for schizophrenia and bipolar disorder.
+|                                      | 2.examining DNA derived from brain cells of people with either of these two disorders and comparing them to healthy controls.                                                                                                                                                                                                                 |
+| Conclusions/ discovery               | -Fresh path for devising more effectice treatements and biomaker-based screening strategies.
+|                                      | -Finding overproduction of the neurotransmitter dopamine, a key regulator of reward-seeking behavior, emotional responses, learning and mouvement.
+|                                      | -Finding a cluster of epigenetic marks, which switched genes on and off, in an enhancer at a gene called IGF2.
 | Remained  questions ?                 | -                                                                                                                                                                                                                                                                                                                                            |
 
 :
