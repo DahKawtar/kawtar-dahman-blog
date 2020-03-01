@@ -1,0 +1,55 @@
+---
+title: "Article 7: Dietary supplement may help with schizophrenia"
+author:
+name: "Dahman Kawtar"
+date: 03-01-2020
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](image/dietary.jpg)
+
+
+
+A dietary supplement, sarcosine, may help with schizophrenia as part of a holistic approach complementing antipsychotic medication, according to a researcher.
+
+# Souce of the blog and words count :
+Source: <https://www.sciencedaily.com/releases/2019/09/190909193217.htm> (09/09/2019)(Credits)
+
+Words count : 475
+
+
+# Vocabulary :
+
+| Words from the text | Synonym/ definition in english                                                          | French translation |
+| ------------------- | --------------------------------------------------------------------------------------- | ------------------ |
+| holistic            | integrated                                                                              | holistique       |
+| editorial           | relating to the commissioning or preparing of material for publication                  | éditorial          |
+| guideline           | instruction                                                                             | ligne directrice          |
+| dietary             | relating to or provided by diet                                                         | diététique       |
+
+
+# Analysis table :
+
+|                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | University College London (UCL)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Published in ? when (if mentioned) ? | September 09, 2019, in an editorial published in the British Journal of Psychiatry                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General topic                        | Schizophrenia                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/ what was examined ?       | 1.Suggesting that Sarcosine could easily be incorporated into treatment plans.
+|                                      | 2.Discovering that some patients with schizophrenia may have defects in the functioning of receptors for glutamate(a common neurotransmitter in the brain).                                                                                                                                                                                                                 |
+| Conclusions/ discovery               | -Sarcosine can help glutamate receptors to work better.
+|                                      | -Finding that if these glutamate receptors did not function properly then people could develop psychosis and other symptoms of schizophrenia.
+|                                      | -Finding that genetic variants which damage this receptor increase the risk of schizophrenia.
+|                                      | -Finding that the only risk identified so far seems to be that people who are on anti-depressants but takes Sarcosine to treat schizophrenia may experience hypomania (disinhibition and euphoria).
+| Remained  questions ?                 | Sarcosine may be a helpful treatment for schizophrenia but further studies are needed to make it a certainty.                                                                                                                                                                                                                                                                                            |

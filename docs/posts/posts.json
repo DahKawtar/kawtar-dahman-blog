@@ -1,5 +1,18 @@
 [
   {
+    "path": "posts/2020-03-01-article-7/",
+    "title": "Article 7: Dietary supplement may help with schizophrenia",
+    "description": {},
+    "author": [],
+    "date": "2020-03-01",
+    "categories": [
+      "Mental diseases",
+      "Schizophrenia"
+    ],
+    "preview": {},
+    "last_modified": "2020-03-01T23:32:13+01:00"
+  },
+  {
     "path": "posts/2019-12-12-article-5/",
     "title": "Article 5: Hotspot in the genome may drive psychosis in schizophrenia and bipolar disorder",
     "description": {},
@@ -80,18 +93,5 @@
     ],
     "preview": {},
     "last_modified": "2019-10-23T14:12:16+02:00"
-  },
-  {
-    "path": "posts/2019-02-16-article-6/",
-    "title": "Article 6: Boosting amino acid derivative may be a treatment for schizophrenia",
-    "description": {},
-    "author": [],
-    "date": "2019-02-16",
-    "categories": [
-      "Mental diseases",
-      "Schizophrenia"
-    ],
-    "preview": {},
-    "last_modified": "2020-02-17T09:57:31+01:00"
   }
 ]
