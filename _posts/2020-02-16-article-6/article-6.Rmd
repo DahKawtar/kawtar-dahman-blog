@@ -2,7 +2,7 @@
 title: "Article 6: Boosting amino acid derivative may be a treatment for schizophrenia"
 author:
 name: "Dahman Kawtar"
-date: 02-16-2019
+date: 02-16-2020
 categories:
   - "Mental diseases"
   - "Schizophrenia"
