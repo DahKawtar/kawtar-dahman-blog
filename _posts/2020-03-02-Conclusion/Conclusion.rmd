@@ -1,3 +1,17 @@
+---
+title: "Schizophrenia : Conclusion:"
+author:
+name: "Dahman Kawtar"
+date: 04-04-2020
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
 Schizophrenia is a serious disorder that should be studied carefully. Sadly, there is still no cure to it, currently. But it's still treatable. 
 It's vert important to have a strong, resistant, support system anf to get the right medications. Antipsychotic medications are the most commonly prescribed. They are believed to affect the brain neurotransmitter dopamine, this latter known to be a hormone that is associated with happiness, which help to prevent depression and suicial thoughts.
 
