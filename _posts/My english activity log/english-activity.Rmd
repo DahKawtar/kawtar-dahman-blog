@@ -2,7 +2,7 @@
 title: "My english activity log"
 author:
   - name: "Dahman Kawtar"
-date: 10-15-2019
+date: 10-16-2019
 categories:
   - "My english activity log"
 preview: 
