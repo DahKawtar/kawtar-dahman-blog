@@ -1,18 +1,5 @@
 [
   {
-    "path": "posts/2020-04-20-Brief-introduction/",
-    "title": "Schizophrenia : Brief introduction",
-    "description": {},
-    "author": [],
-    "date": "2020-10-16",
-    "categories": [
-      "Mental diseases",
-      "Schizophrenia"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-20T01:17:49+02:00"
-  },
-  {
     "path": "posts/2020-04-11-Bibliography/",
     "title": "Bibliography",
     "description": {},
@@ -145,5 +132,18 @@
     ],
     "preview": {},
     "last_modified": "2020-04-19T23:47:57+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-Brief-introduction/",
+    "title": "Schizophrenia : Brief introduction",
+    "description": {},
+    "author": [],
+    "date": "2019-10-16",
+    "categories": [
+      "Mental diseases",
+      "Schizophrenia"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-20T01:24:22+02:00"
   }
 ]
