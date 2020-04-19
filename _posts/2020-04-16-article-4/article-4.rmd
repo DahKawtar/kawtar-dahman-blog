@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](image/schizo.jpg)
+![](image/article4.jpg)
 
 
 Scientists have used MRI scanners to discover the parts of the brain which understand metaphors, in both healthy volunteers and people with schizophrenia.
