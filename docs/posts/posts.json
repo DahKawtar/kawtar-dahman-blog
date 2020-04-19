@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2020-04-19-Conclusion/",
-    "title": "Schizophrenia : Conclusion:",
+    "title": "Schizophrenia : Conclusion",
     "description": {},
     "author": [],
     "date": "2020-04-19",
@@ -10,7 +10,7 @@
       "Schizophrenia"
     ],
     "preview": {},
-    "last_modified": "2020-04-19T23:26:39+02:00"
+    "last_modified": "2020-04-19T23:47:24+02:00"
   },
   {
     "path": "posts/2019-09-17-Brief-introduction/",
@@ -104,23 +104,6 @@
     "last_modified": "2019-11-01T12:20:21+01:00"
   },
   {
-    "path": "posts/My english activity log/",
-    "title": "My english activity log",
-    "description": {},
-    "author": [
-      {
-        "name": "Dahman Kawtar",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-22",
-    "categories": [
-      "My english activity log"
-    ],
-    "preview": {},
-    "last_modified": "2019-12-01T15:23:41+01:00"
-  },
-  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1: Determined DNA hunt reveals schizophrenia clue.",
     "description": {},
@@ -132,5 +115,22 @@
     ],
     "preview": {},
     "last_modified": "2019-10-23T14:12:16+02:00"
+  },
+  {
+    "path": "posts/My english activity log/",
+    "title": "My english activity log",
+    "description": {},
+    "author": [
+      {
+        "name": "Dahman Kawtar",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-16",
+    "categories": [
+      "My english activity log"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-19T23:47:57+02:00"
   }
 ]
