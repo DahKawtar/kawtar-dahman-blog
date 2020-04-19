@@ -1,7 +1,20 @@
 [
   {
+    "path": "posts/2020-04-19-Conclusion/",
+    "title": "Schizophrenia : Conclusion:",
+    "description": {},
+    "author": [],
+    "date": "2020-04-19",
+    "categories": [
+      "Mental diseases",
+      "Schizophrenia"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-19T23:26:39+02:00"
+  },
+  {
     "path": "posts/2019-09-17-Brief-introduction/",
-    "title": "Schizophrenia",
+    "title": "Schizophrenia : Brief introduction",
     "description": {},
     "author": [],
     "date": "2020-04-18",
@@ -10,7 +23,7 @@
       "Schizophrenia"
     ],
     "preview": {},
-    "last_modified": "2020-04-19T23:11:22+02:00"
+    "last_modified": "2020-04-19T23:27:13+02:00"
   },
   {
     "path": "posts/2020-03-01-article-7/",

@@ -1,5 +1,5 @@
 ---
-title: "Schizophrenia"
+title: "Schizophrenia : Brief introduction"
 author:
 name: "Dahman Kawtar"
 date: 04-18-2020
