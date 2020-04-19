@@ -1,0 +1,32 @@
+---
+title: "Bibliography"
+author:
+name: "Dahman Kawtar"
+date: 04-20-2020
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+ Websites used through the creation of this blog :
+
+Introduction : <https://www.nami.org/Support-Education/Video-Resource-Library/Tell-Me-About-Schizophrenia> and <https://www.mayoclinic.org/diseases-conditions/schizophrenia/symptoms-causes/syc-20354443>
+
+Article 1: <https://www.sciencedaily.com/releases/2019/07/190703121445.htm>
+
+Article 2: <https://www.sciencedaily.com/releases/2019/06/190613104552.htm>
+
+Article 3: <https://www.sciencedaily.com/releases/2019/06/190624111556.htm>
+
+Article 4: <https://www.sciencedaily.com/releases/2019/09/190906200401.htm>
+
+Article 5: <https://www.sciencedaily.com/releases/2019/05/190503100829.htm>
+
+Article 6: <https://www.sciencedaily.com/releases/2019/06/190626124940.htm>
+
+Articel 7: <https://www.sciencedaily.com/releases/2019/09/190909193217.htm>
+
+Conclusion : <https://www.helpguide.org/articles/mental-disorders/schizophrenia-treatment-and-self-help.htm>
