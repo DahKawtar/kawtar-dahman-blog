@@ -1,0 +1,63 @@
+---
+title: "Article 2: The whisper of schizophrenia: Machine learning finds 'sound' words predict psychosis"
+author:
+name: "Dahman Kawtar"
+date: 10-23-2019
+categories:
+  - "Mental diseases"
+  - "Schizophrenia"
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](image/schizophrenia-whisper.jpg)
+
+A machine-learning method discovered a hidden clue in people's language predictive of the later emergence of psychosis.
+
+
+# Source of the blog and words count :
+
+Source : <https://www.sciencedaily.com/releases/2019/06/190613104552.htm> (06/13/2019)(Credits)
+
+Words count: 891
+
+
+# Vocabulary :
+
+| Words from the text | Synonym/ definition in english                              | French translation |
+| ------------------- | ----------------------------------------------------------- | ------------------ |
+| predictive          | foretelling                                                 | prédictive         |
+| semantic            | the study of meaning in language                            | sémantique         |
+| subtleties          | the quality or state of being subtle                        | subtilités         |
+| onset               | the beginning of something, especially something unpleasant | début              |
+| prodromal           | a premonitory symptom                                       | prodrome           |
+| cognitive           | experimental                                                | cognitif           |
+| streamline          | establish                                                   | rationaliser       |
+| norms               | something that is usual, typical, or standard               | normes             |
+| software            | operating system                                            | logiciel           |
+| vector              | transmitter                                                 | vecteur            |
+| dubbed              | give an unofficial name or nickname to                      | doublé             |
+| baseline            | guideline                                                   | ligne de base      |
+| conducted           | organized                                                   | conduite           |
+| realm               | field                                                       | domaine            |
+| grant               | donation                                                    | subvension         |
+
+
+
+# Analysis table :
+
+|                                      |                                                                                                                                                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                          | Emory Health Sciences (original written by Carol Clarke)                                                                                                           |
+| Published in ? when (if mentioned) ? | June 3, 2019                                                                                                                                                       |
+| General topic                        | Schizophrenia                                                                                                                                                      |
+| Procedure/ what was examined ?       | 1. People's language was examined by a machine-learning method to identify linguistic abnormalities associated with mental illness.                                |
+| Conclusions/ discovery               | - Discovering of a hidden clue in people's language indicator to psychosis.
+|                                      | - People at risk for psychosis use more words associated with sound than the average.  |
+| Remained questions ?                 | How much more will it take to find more quantified, objective ways to measure subtle variables, such as those                                                hidden within language usage ?                     |
